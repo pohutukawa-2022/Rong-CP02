@@ -1,0 +1,19 @@
+{
+  "name": "rong-cp02",
+  "version": "1.0.0",
+  "description": "There is nothing to read",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohutukawa-2022/Rong-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohutukawa-2022/Rong-CP02/issues"
+  },
+  "homepage": "https://github.com/pohutukawa-2022/Rong-CP02#readme"
+}
